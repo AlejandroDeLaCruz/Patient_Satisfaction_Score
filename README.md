@@ -15,6 +15,10 @@ Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Fun
 
 Before importing the processed data to Tableau, I took the following actions:
 <ul>
+  <li>Created tables and columns with correct data types in pgAdmin</li>
+  <li>Checked the column formats in each table to make sure they match</li>
+
+### Data Processing  
   <li>Utilizing a string function in making sure that </li>
   <li></li>
   <li></li>
