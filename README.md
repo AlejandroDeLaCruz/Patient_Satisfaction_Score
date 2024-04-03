@@ -10,6 +10,7 @@ The analysis aims to understand how hospitals across the United States provide q
 
 Skills used: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, Converting data
 
+## SQL Query
 <img src = "Snap.png">
 
 ## Results
