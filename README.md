@@ -44,3 +44,5 @@ As a result of these actions, I was able to determine what areas a hospital need
 ## Visualizations
 
 <img src = "Patient Satisfaction Score.png">
+
+% of Patients 
