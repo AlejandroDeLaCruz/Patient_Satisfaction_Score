@@ -7,4 +7,4 @@ Skills used: JOIN, Window Functions, Common Table Expressions (CTE), Date Functi
 
 <img src = "Snap.png">
 
-# Results
+## Results
