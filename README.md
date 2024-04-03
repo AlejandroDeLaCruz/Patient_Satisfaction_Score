@@ -52,3 +52,5 @@ I chose to filter for questions that specifically mention "Always" and are rated
 - Number of Completed Surveys
 - Question Delta from Mean Cohort %
 - Cohort Hospital Delta Spread
+
+These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/HCAHPSDashboard_17114636828960/HCAHPSDashboard?publish=yes" relative = unfollow> Patient Satisfaction Score Dashboard</a>
