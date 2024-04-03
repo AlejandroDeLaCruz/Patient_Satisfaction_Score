@@ -18,10 +18,13 @@ Before importing the processed data to Tableau, I took the following actions:
   <li>Created tables and columns with correct data types in pgAdmin</li>
   <li>Checked the column formats in each table to make sure they match</li>
 
-### Data Processing  
-  <li>Utilizing a string function in making sure that </li>
-  <li></li>
-  <li></li>
+### Data Preparation
+
+#### Hospital Beds Data
+  <li>Convert the "provider_ccn" column to a six-digit string format using LPAD function. </li>
+  <li>Convert the "fiscal_year_begin_date" and "fiscal_year_end_date" columns to date format using TO_DATE function</li>
+  <li>Calculate the row number for each record within a group of "provider_ccn" ordered by the "fiscal_year_end_date" in descending order to identify the most recent bed count data for each hospital</li>
+  <li>Utilized a CTE as it would be used for a join</li>
 </ul>
 
 ## Results
