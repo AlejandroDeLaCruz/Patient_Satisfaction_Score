@@ -13,5 +13,11 @@ Skills used: JOIN, Window Functions, Common Table Expressions (CTE), Date Functi
 ## SQL Query
 <img src = "Snap.png">
 
+Before importing the processed data to Tableau, I took the following actions:
+<ul>
+  <li>Identified which columns needed to be modified</li>
+  <li></li>
+  <li></li>
+</ul>
 ## Results
 <img src = "Patient Satisfaction Score.png">
