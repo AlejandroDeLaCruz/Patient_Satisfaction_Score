@@ -50,7 +50,7 @@ I chose to filter for questions that specifically mention "Always" and are rated
 - <b>% of Patients Rating Hospital 9-10</b>
 - <b>Survey Response Rate</b>: The percentage of patients who decided to take and complete a hospital survey
 - <b>Number of Completed Surveys</b>: The number of patients who decided to take and complete a hospital survey
-- <b>Question Delta from Mean Cohort %</b>
-- <b>Cohort Hospital Delta Spread</b>: A comparasion between the averages of the selected hospital and its cohort 
+- <b>Question Delta from Mean Cohort %</b>: Selected hospital displaying the delta against the average for each top box question. Determines whether or not 
+- <b>Cohort Hospital Delta Spread</b>: A comparasion between the selected hospital and its peers 
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/HCAHPSDashboard_17114636828960/HCAHPSDashboard?publish=yes" relative = unfollow> Patient Satisfaction Score Dashboard</a>
