@@ -1,7 +1,3 @@
---Creating Tables for HCAHPS lesson--
-
-
--- Note, before you run this step, you should create a schema called Hopsital Data --
 CREATE TABLE IF NOT EXISTS "postgres"."Hospital_Data".hospital_beds
 (
      provider_ccn integer
