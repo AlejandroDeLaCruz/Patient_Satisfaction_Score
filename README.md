@@ -2,8 +2,8 @@
 
 This repository includes a SQL query for processing hospital data from two datasets:
   <ul>
-    <li>v1 HCAHPS 2022</li>
-    <li>Hospital Beds</li>
+    <li>v1 HCAHPS 2022: Patient survey responses related to hospital experiences</li>
+    <li>Hospital Beds: Information about the number of beds in each hospital and corresponding reporting periods</li>
   </ul>
 
 The analysis aims to gain insights into how hospitals in the United States deliver quality care to patients and to identify areas where hospitals could improve their overall care.
