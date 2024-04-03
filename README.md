@@ -45,4 +45,8 @@ As a result of these actions, I was able to determine what areas a hospital need
 
 <img src = "Patient Satisfaction Score.png">
 
-% of Patients 
+- % of Patients Rating Hospital 9-10
+- Survey Response Rate
+- # of Completed Surveys
+- Question Delta from Mean Cohort %
+- Cohort Hospital Delta Spread
