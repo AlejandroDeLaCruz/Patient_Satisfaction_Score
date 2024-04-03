@@ -20,4 +20,6 @@ Before importing the processed data to Tableau, I took the following actions:
   <li></li>
 </ul>
 ## Results
+As a result of these actions, I was able to determine what areas a hospital needed to improve as they try to give the best quality care to their patients.
+
 <img src = "Patient Satisfaction Score.png">
