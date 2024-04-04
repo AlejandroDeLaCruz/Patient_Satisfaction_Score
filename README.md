@@ -40,15 +40,15 @@ Before importing the processed data to Tableau, I took the following actions:
 
 ## Visualizations
 
-<img src = "Patient Satisfaction Score.png">
+<img src = "Patient Satisfaction Score.png"></img>
 
 I chose to filter for questions that specifically mention "Always" and are rated as "9-10" on a 1-10 scale. These responses are considered top-box choices in the survey and are crucial for evaluating if hospitals are meeting expected standards.
 
 I also chose to filter it by state and the size of the hospital (small, medium, large) based from the number of beds they had in 2022. Here is the calculation below determining the size of the hospital for each respective hospital.
 
-<img src = "Hospital Size Calculation.png">
+<img src = "Hospital Size Calculation.png"></img>
 
-## Dashboard Components
+### Dashboard Components
 - <b>% of Patients Rating Hospital 9-10</b>: Patients who rated the hospital from 9-10 in a 1-10 scale
 - <b>Survey Response Rate</b>: The percentage of patients who took and completed the hospital survey
 - <b>Number of Completed Surveys</b>: The number of patients who took and completed a hospital survey
