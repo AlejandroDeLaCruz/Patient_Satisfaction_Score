@@ -11,7 +11,7 @@ The analysis aims to gain insights into how hospitals in the United States deliv
 Skills applied: JOIN, Window Functions, Common Table Expressions (CTE), Date Functions, String Functions, and Data Conversion
 
 ## SQL Query
-<img src = "Snap.png">
+<img src = "Snap.png"></img>
 
 Before importing the processed data to Tableau, I took the following actions:
 <ul>
