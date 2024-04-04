@@ -47,10 +47,12 @@ As a result of these actions, I was able to determine what areas a hospital need
 
 I chose to filter for questions that specifically mention "Always" and are rated as "9-10" on a 1-10 scale. These responses are considered top-box choices in the survey and are crucial for evaluating if hospitals are meeting expected standards.
 
-- <b>% of Patients Rating Hospital 9-10</b>
+I also chose to filter
+
+- <b>% of Patients Rating Hospital 9-10</b>: Patients who rated the hospital from 9-10 in a 1-10 scale
 - <b>Survey Response Rate</b>: The percentage of patients who took and completed the hospital survey
 - <b>Number of Completed Surveys</b>: The number of patients who took and completed a hospital survey
-- <b>Question Delta from Mean Cohort %</b>: Selected hospital displaying the delta against the average for each top box question. If positive, then it means the selected hospital is performing well in that area. If negative, it means that the selected hospital is performing poorly in that area.
-- <b>Cohort Hospital Delta Spread</b>: A comparasion between the selected hospital and its peers 
+- <b>Question Delta from Mean Cohort %</b>: Selected hospital displaying the delta against the average for each top box question. If positive, then it means the selected hospital is performing well in that area. If negative, it means that the selected hospital is performing poorly in that area
+- <b>Cohort Hospital Delta Spread</b>: Similar to "Question Delta from Mean Cohort %", but it is comparing the selected hospital to its peers
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/HCAHPSDashboard_17114636828960/HCAHPSDashboard?publish=yes" target = "_blank">Patient Satisfaction Score Dashboard</a>
