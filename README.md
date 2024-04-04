@@ -48,6 +48,7 @@ I also chose to filter it by state and the size of the hospital (small, medium, 
 
 <img src = "Hospital Size Calculation.png">
 
+## Dashboard Components
 - <b>% of Patients Rating Hospital 9-10</b>: Patients who rated the hospital from 9-10 in a 1-10 scale
 - <b>Survey Response Rate</b>: The percentage of patients who took and completed the hospital survey
 - <b>Number of Completed Surveys</b>: The number of patients who took and completed a hospital survey
