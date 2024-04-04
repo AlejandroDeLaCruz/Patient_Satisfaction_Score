@@ -38,16 +38,13 @@ Before importing the processed data to Tableau, I took the following actions:
 <li>Filter the results to include only records where the "recent_date" value from the preprocessed Hospital Beds Data is 1, indicating the most recent bed count data for each hospital</li>
 </ul>
 
-## Results
-As a result of these actions, I was able to determine what areas a hospital needed to improve as they try to give the best quality care to their patients.
-
 ## Visualizations
 
 <img src = "Patient Satisfaction Score.png">
 
 I chose to filter for questions that specifically mention "Always" and are rated as "9-10" on a 1-10 scale. These responses are considered top-box choices in the survey and are crucial for evaluating if hospitals are meeting expected standards.
 
-I also chose to filter
+I also chose to filter it by state and the size of the hospital (small, medium, large) based from the number of beds they had in 2022.
 
 - <b>% of Patients Rating Hospital 9-10</b>: Patients who rated the hospital from 9-10 in a 1-10 scale
 - <b>Survey Response Rate</b>: The percentage of patients who took and completed the hospital survey
@@ -56,3 +53,6 @@ I also chose to filter
 - <b>Cohort Hospital Delta Spread</b>: Similar to "Question Delta from Mean Cohort %", but it is comparing the selected hospital to its peers
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/HCAHPSDashboard_17114636828960/HCAHPSDashboard?publish=yes" target = "_blank">Patient Satisfaction Score Dashboard</a>
+
+## Results
+As a result of these actions, I was able to determine what areas a hospital needed to improve as they try to give the best quality care to their patients.
