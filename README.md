@@ -67,8 +67,6 @@ I chose to filter for questions that specifically mention "Always" and are rated
 
 I also chose to filter it by state and the size of the hospital (small, medium, large) based from the number of beds they had in 2022. Here is the calculation below determining the size of the hospital for each respective hospital.
 
-<img src = "Hospital Size Calculation.png"></img>
-
 ![Hospital Size Calculation](/Hospital%20Size%20Calculation.png)
 
 ### Dashboard Components
